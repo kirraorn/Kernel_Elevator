@@ -17,7 +17,7 @@ Developing a kernel module and then using it to implement a scheduling algorithm
 
 ### Part 3a:  Adding System Calls 
 - **Responsibilities**: Add calls to module
-- **Assigned to**: Ludginie Dorval, Kate Payen
+- **Assigned to**: Ludginie, Kate
 
 ### Part 3b: Kernel Compilation 
 - **Responsibilities**: Compile the kernel with the new system calls
@@ -25,7 +25,7 @@ Developing a kernel module and then using it to implement a scheduling algorithm
 
 ### Part 3c: Threads
 - **Responsibilities**: Test if you successfully added the system calls to your installed kernel with the provided tests in your starter file in the directory
-- **Assigned to**: Ludigine Dorval
+- **Assigned to**: Ludigine 
 
 ### Part 3d:  Linked List
 - **Responsibilities**: Add linked list to module
@@ -33,11 +33,11 @@ Developing a kernel module and then using it to implement a scheduling algorithm
 
 ### Part 3e: Mutexes
 - **Responsibilities**: control shared data access between floor and elevators.
-- **Assigned to**: Ludginie Dorval
+- **Assigned to**: Ludginie 
 
 ### Part 3f: Scheduling Algorithms
 - **Responsibilities**: manage what type of algoritm used to schedule elevator with pets
-- **Assigned to**: Kate Payen
+- **Assigned to**: Kate 
 
 ## File Listing
 ```
@@ -106,31 +106,6 @@ Each member records their contributions here.
 | 2025-10-29| began testing of elevator module |
 | 2025-11-1 | began trying to fix bugs in module |
 | 2025-11-4 | final testing |
-
-### Ludginie Dorval
-
-| Date       | Work Completed / Notes |
-|------------|------------------------|
-| 2025-10-19 | Began work on part3    |
-| 2025-10-23| office hours  |
-| 2025-10-24 | Moved part3 from github to virtual machine to begin work|
-| 2025-10-28 | Continued work on part3c and part 3e  |
-| 2025-10-29 | Finished part 3c and part 3e|
-| 2025-10-29 | Final testing and following demo|
-
-
-
-### Kate Payen
-
-| Date       | Work Completed / Notes |
-|------------|------------------------|
-| 2025-10-19 | Began working on part 3 |
-|2025 - 10- 23| attended office hours to address issues with pasting on the VM/logging in|
-|2025-10-24 | tested current file/ compilation|
-|2025 - 10-29|began working on part 3f|
-| 2025-10-29 |Finished part 3f + added changes to git + VM|
-| 2025-11-04 | Fixed Loading infinite loop issue |
-|2025-11-04| updated changes to git|
 
 
 ## Meetings
